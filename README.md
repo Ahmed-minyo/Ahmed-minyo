@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
-<h3 align="center">A mid-level Flutter developer</h3>
+<h3 align="center">Software Engineer (Flutter developer)</h3>
 
-- 🔭 I’m currently working on **E-commerce Application**
+- 🔭 I’m currently working on **Product Application for a real estate development company**
 
 - 🌱 I’m currently learning **Ios**
 
 - 💬 Ask me about **Flutter & Dart &postman & Soap UI**
+
+- ⚡ Fun fact **I think I'm able to learn new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
