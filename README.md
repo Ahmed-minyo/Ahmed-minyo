@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Product Application for a real estate development company**
 
-- 🌱 I’m currently learning **Ios**
+- 🌱 I’m currently learning **other software technologies**
 
 - 💬 Ask me about **Flutter & Dart &postman & Soap UI**
-
-- ⚡ Fun fact **I think I'm able to learn new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
