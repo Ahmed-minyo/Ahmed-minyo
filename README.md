@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
-<h3 align="center">Software Engineer (Flutter developer)</h3>
+<h3 align="center">A Software engineer with +5 years of experience in mobile software development.</h3>
 
-- 🔭 I’m currently working on **Product Application for a real estate development company**
+- 🔭 I’m currently working on **Sales Application for Lebara KSA Mobile With +5M Customers**
 
-- 🌱 I’m currently learning **other software technologies**
+- 🌱 I’m currently learning **Swift UI**
 
-- 💬 Ask me about **Flutter & Dart &postman & Soap UI**
+- 💬 Ask me about Flutter, Dart, Platform Channels Using Native Code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
