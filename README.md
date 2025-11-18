@@ -1,48 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ali</h1>
 <h3 align="center">A Software engineer with +5 years of experience in mobile software development.</h3>
 
----
-
-## 🏆 GitHub Achievements
-
-<!-- Trophy-style cards -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedminyo&theme=algolia&no-frame=true&column=8" />
-</p>
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedminyo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedminyo&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ahmedminyo/count.svg" alt="Profile Views" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **Sales Application for Lebara KSA Mobile With +5M Customers**  
 - 🌱 I’m learning **Swift UI**  
 - 💬 Ask me about **Flutter, Dart, Platform Channels Using Native Code**  
-- 📫 How to reach me:  
-  **[ahmedminyo@gmail.com](mailto:ahmedminyo@gmail.com)**  
+- 📫 How to reach me:  **[ahmedminyo@gmail.com](mailto:ahmedminyo@gmail.com)**  
 
 ---
 
